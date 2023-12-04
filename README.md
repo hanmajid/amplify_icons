@@ -19,7 +19,7 @@ Import the package in your Flutter file and use one of these 2 alternatives to d
 import 'package:amplify_icons/amplify_icons.dart';
 
 /// Alternative 1 - Using Icon widget:
-Icon _icon = Icon(AmplifyIcons.warning, size: 16.0);
+Icon _icon = Icon(AmplifyIcons.warning, size: 24.0);
 
 /// Alternative 2 - Using AmplifyIcon widget:
 Icon _icon = AmplifyIcon(AmplifyIcons.warning);
