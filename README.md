@@ -11,6 +11,27 @@ dependencies:
   amplify_icons: ^<latest-version>
 ```
 
+### Installation (Local)
+
+If you purchased this package from marketplace, follow instructions below to use this package:
+
+1. Put `amplify_icons` package folder in the same folder as your Flutter project like shown below:
+   ```
+   └── my_working_directory/
+       ├── amplify_icons/                   # Place package folder here
+       └── my_awesome_flutter_project/      # Place your Flutter project folder here
+   ```
+2. In your `pubspec.yaml` file, add `amplify_icons` as local dependency in your Flutter project:
+   ```yaml
+   dependencies:
+     amplify_icons:
+       path: ../amplify_icons
+   ```
+3. Update your Flutter project dependencies by running:
+   ```
+   flutter pub get
+   ```
+
 ## Usage
 
 Import the package in your Flutter file and use one of these 2 alternatives to display your icons:
@@ -31,7 +52,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/amplif
 
 ## Icons
 
-<img src="https://github.com/hanmajid/amplify_icons/blob/master/amplify-icons.png?raw=true">
+<img src="amplify-icons.png">
 
 All Amplify icons can be viewed on its Figma file [here](https://www.figma.com/community/file/1047600760128127424).
 
