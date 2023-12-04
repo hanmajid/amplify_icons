@@ -22,7 +22,7 @@ import 'package:flutter/widgets.dart';
 /// If you're looking for `IconData` instead of `Icon` objects, please see
 /// `AmplifyIcons` class.
 class AmplifyIcon extends Icon {
-  /// Constructor fot Amplify icons (size 24.0).
+  /// Constructor for Amplify icons (size 24.0).
   const AmplifyIcon(
     super.icon, {
     Key? key,
