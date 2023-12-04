@@ -21,10 +21,10 @@ class AmplifyIcons {
   /// No need for constructor. All properties are static.
   AmplifyIcons._();
 
-  /// Default Airtable icons family name.
+  /// Amplify icons family name.
   static const _kFontFam = 'AmplifyIcons';
 
-  /// Airtable icons package name.
+  /// Amplify icons package name.
   static const String? _kFontPkg = 'amplify_icons';
 
   /// Icon data for 'alert' glyph.
