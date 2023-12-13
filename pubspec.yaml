@@ -1,6 +1,6 @@
 name: amplify_icons
 description: Collection of beautiful and well-designed icons from AWS Amplify UI Kit
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/hanmajid/amplify_icons
 issue_tracker: https://github.com/hanmajid/amplify_icons/issues
 repository: https://github.com/hanmajid/amplify_icons
@@ -8,7 +8,8 @@ funding:
   - https://github.com/sponsors/hanmajid
 
 environment:
-  sdk: '>=2.19.0 <4.0.0'
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.10.5'
 
 dependencies:
   flutter:
