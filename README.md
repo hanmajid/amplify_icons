@@ -33,7 +33,7 @@ For issues, file directly in the [repository](https://github.com/hanmajid/amplif
 
 ## Icons
 
-<img src="amplify-icons.png">
+<img src="https://github.com/hanmajid/amplify_icons/blob/master/amplify-icons.png?raw=true">
 
 All Amplify icons can be viewed on its Figma file [here](https://www.figma.com/community/file/1047600760128127424).
 
