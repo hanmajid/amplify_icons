@@ -1,5 +1,7 @@
 # Amplify Icons
 
+[![pub package](https://img.shields.io/pub/v/amplify_icons.svg)](https://pub.dev/packages/amplify_icons)
+
 Unofficial Flutter package for **AWS Amplify UI Kit icons**. AWS Amplify UI Kit is made by [AWS](https://www.figma.com/@awsamplify) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Installation
@@ -10,27 +12,6 @@ Add `amplify_icons` dependency to your Flutter project:
 dependencies:
   amplify_icons: ^<latest-version>
 ```
-
-### Installation (Local)
-
-If you purchased this package from marketplace, follow instructions below to use this package:
-
-1. Put `amplify_icons` package folder in the same folder as your Flutter project like shown below:
-   ```
-   └── my_working_directory/
-       ├── amplify_icons/                   # Place package folder here
-       └── my_awesome_flutter_project/      # Place your Flutter project folder here
-   ```
-2. In your `pubspec.yaml` file, add `amplify_icons` as local dependency in your Flutter project:
-   ```yaml
-   dependencies:
-     amplify_icons:
-       path: ../amplify_icons
-   ```
-3. Update your Flutter project dependencies by running:
-   ```
-   flutter pub get
-   ```
 
 ## Usage
 
